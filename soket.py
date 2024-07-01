@@ -2,7 +2,7 @@ import sys
 import socket
 import threading
 
-SERVER_IP = '10.0.35.243'
+SERVER_IP = 'your ip'
 PORT = 4444
 
 def handle_client(client_socket, client_address):
